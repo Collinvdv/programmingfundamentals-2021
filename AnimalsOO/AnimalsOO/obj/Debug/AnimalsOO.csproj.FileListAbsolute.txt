@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/AnimalsOO/AnimalsOO/bin/Debug/AnimalsOO.exe
+/Users/collinvandervorst/Projects/AnimalsOO/AnimalsOO/bin/Debug/AnimalsOO.pdb
+/Users/collinvandervorst/Projects/AnimalsOO/AnimalsOO/obj/Debug/AnimalsOO.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/AnimalsOO/AnimalsOO/obj/Debug/AnimalsOO.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/AnimalsOO/AnimalsOO/obj/Debug/AnimalsOO.exe
+/Users/collinvandervorst/Projects/AnimalsOO/AnimalsOO/obj/Debug/AnimalsOO.pdb

@@ -1,0 +1,7 @@
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson8_Execeptions/Lesson8_Execeptions/obj/Debug/Lesson8_Execeptions.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson8_Execeptions/Lesson8_Execeptions/obj/Debug/Lesson8_Execeptions.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson8_Execeptions/Lesson8_Execeptions/bin/Debug/Lesson8_Execeptions.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson8_Execeptions/Lesson8_Execeptions/bin/Debug/Lesson8_Execeptions.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson8_Execeptions/Lesson8_Execeptions/obj/Debug/Lesson8_Execeptions.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson8_Execeptions/Lesson8_Execeptions/obj/Debug/Lesson8_Execeptions.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson8_Execeptions/Lesson8_Execeptions/bin/Debug/students.txt

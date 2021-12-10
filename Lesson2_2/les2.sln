@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les2", "les2\les2.csproj", "{E2FA3CB8-F949-4F12-A311-E7463C6F9581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2FA3CB8-F949-4F12-A311-E7463C6F9581}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E2FA3CB8-F949-4F12-A311-E7463C6F9581}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E2FA3CB8-F949-4F12-A311-E7463C6F9581}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E2FA3CB8-F949-4F12-A311-E7463C6F9581}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E42938A4-93AC-45CD-8281-13F69507983E}
+	EndGlobalSection
+EndGlobal

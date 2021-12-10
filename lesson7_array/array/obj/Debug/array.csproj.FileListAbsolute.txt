@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/array/array/bin/Debug/array.exe
+/Users/collinvandervorst/Projects/array/array/bin/Debug/array.pdb
+/Users/collinvandervorst/Projects/array/array/obj/Debug/array.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/array/array/obj/Debug/array.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/array/array/obj/Debug/array.exe
+/Users/collinvandervorst/Projects/array/array/obj/Debug/array.pdb

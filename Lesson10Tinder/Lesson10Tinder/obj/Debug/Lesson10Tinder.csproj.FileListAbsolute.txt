@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson10Tinder/Lesson10Tinder/bin/Debug/Lesson10Tinder.exe
+/Users/collinvandervorst/Projects/Lesson10Tinder/Lesson10Tinder/bin/Debug/Lesson10Tinder.pdb
+/Users/collinvandervorst/Projects/Lesson10Tinder/Lesson10Tinder/obj/Debug/Lesson10Tinder.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson10Tinder/Lesson10Tinder/obj/Debug/Lesson10Tinder.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson10Tinder/Lesson10Tinder/obj/Debug/Lesson10Tinder.exe
+/Users/collinvandervorst/Projects/Lesson10Tinder/Lesson10Tinder/obj/Debug/Lesson10Tinder.pdb

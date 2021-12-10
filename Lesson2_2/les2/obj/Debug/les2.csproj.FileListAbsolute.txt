@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/les2/les2/bin/Debug/les2.exe
+/Users/collinvandervorst/Projects/les2/les2/bin/Debug/les2.pdb
+/Users/collinvandervorst/Projects/les2/les2/obj/Debug/les2.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/les2/les2/obj/Debug/les2.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/les2/les2/obj/Debug/les2.exe
+/Users/collinvandervorst/Projects/les2/les2/obj/Debug/les2.pdb

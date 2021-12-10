@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1BADC1B6-C292-4B43-93D4-1371FB3F50B8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson10Tinder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson10Tinder/Program.cs">
+    <Files>
+      <File FileName="Lesson10Tinder/Program.cs" Line="21" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson10Tinder" expanded="True">
+            <Node name="Lesson10Tinder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

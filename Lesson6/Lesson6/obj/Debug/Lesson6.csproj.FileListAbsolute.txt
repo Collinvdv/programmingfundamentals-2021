@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson6/Lesson6/bin/Debug/Lesson6.exe
+/Users/collinvandervorst/Projects/Lesson6/Lesson6/bin/Debug/Lesson6.pdb
+/Users/collinvandervorst/Projects/Lesson6/Lesson6/obj/Debug/Lesson6.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson6/Lesson6/obj/Debug/Lesson6.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson6/Lesson6/obj/Debug/Lesson6.exe
+/Users/collinvandervorst/Projects/Lesson6/Lesson6/obj/Debug/Lesson6.pdb

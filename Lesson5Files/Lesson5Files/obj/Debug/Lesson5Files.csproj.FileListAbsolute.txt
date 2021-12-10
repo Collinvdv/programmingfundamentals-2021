@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson5Files/Lesson5Files/bin/Debug/Lesson5Files.exe
+/Users/collinvandervorst/Projects/Lesson5Files/Lesson5Files/bin/Debug/Lesson5Files.pdb
+/Users/collinvandervorst/Projects/Lesson5Files/Lesson5Files/obj/Debug/Lesson5Files.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson5Files/Lesson5Files/obj/Debug/Lesson5Files.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson5Files/Lesson5Files/obj/Debug/Lesson5Files.exe
+/Users/collinvandervorst/Projects/Lesson5Files/Lesson5Files/obj/Debug/Lesson5Files.pdb

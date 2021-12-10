@@ -1,0 +1,266 @@
+﻿using System;
+
+namespace Lesson10Spotify
+{
+    class MainClass
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
+
+
+
+// SPOTIFY (WHUT AGAIN)
+// FASE 1:
+// COMMANDS
+//   I: LIST
+//      O: DUA LIPA - ONE KISS
+//      O: THE BEATLES - HEY JUDE
+//      O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//   I: ADD A SONG
+//      ----- CASE 1 ------
+//      O: ASK ARTIST
+//      I: DUA LIPA
+//      O: NEW ARTIST, CAN YOU GIVE ME THE SONG NAME?
+//      I: ONE KISS
+//      O: I'VE ADDED DUA LIPA - ONE KISS
+//      O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//
+//      ----- CASE 2 ------
+//      O: ASK ARTIST
+//      I: THE BEATLES
+//      O: THE BEATLES IS IN LIST, DO YOU WANT TO THE SONG "YELLOW SUBMARINE" OVERWRITE?
+//         ----- SUBCASE 2.1
+//         I: Y
+//         O: CAN YOU GIVE ME THE SONG?
+//         I: HEY JUDE
+//         O: I'VE ADDED THE BEATLES - HEY JUDE
+//         O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//
+//         ----- SUBCASE 2.1
+//         I: N
+//         O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//   I: STOP
+//      O: GOODBYE
+//   I: LIST SONGS
+//      O: ERROR, I DON'T RECOGNISE THE COMMANDO
+
+
+
+
+
+
+
+
+
+// SPOTIFY ARTIST CAN HAVE MULTIPLE SONGS
+// FASE 2:
+// COMMANDS
+//   I: LIST
+//      O: DUA LIPA - ONE KISS
+//      O: THE BEATLES - HEY JUDE
+//      O: THE BEATLES - YELLOW SUBMARINE
+//      O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//   I: ADD A SONG
+//      ----- CASE 1 ------
+//      O: ASK ARTIST
+//      I: DUA LIPA
+//      O: NEW ARTIST, CAN YOU GIVE ME THE SONG NAME?
+//      I: ONE KISS
+//      O: I'VE ADDED DUA LIPA - ONE KISS
+//      O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//
+//      ----- CASE 2 ------
+//      O: ASK ARTIST
+//      I: THE BEATLES
+//      O: THE BEATLES IS IN LIST, DO YOU WANT TO TO ADD A NEW SONG?
+//         ----- SUBCASE 2.1
+//         I: Y
+//         O: CAN YOU GIVE ME THE SONG?
+//         I: HEY JUDE
+//         O: I'VE ADDED THE BEATLES - HEY JUDE
+//         O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//         -----SUBCASE 2.2
+//         I: N
+//         O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//   I: STOP
+//      O: GOODBYE
+//   I: LIST SONGS
+//      O: ERROR, I DON'T RECOGNISE THE COMMANDO
+
+
+
+
+
+
+
+
+// SPOTIFY RECOGNIZE LIST AND LIST SONGS
+// FASE 3:
+// COMMANDS
+//   I: LIST
+//      O: DUA LIPA - ONE KISS
+//      O: THE BEATLES - HEY JUDE
+//      O: THE BEATLES - YELLOW SUBMARINE
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, STOP]
+//   I: LIST SONGS
+//      O: DUA LIPA - ONE KISS
+//      O: THE BEATLES - HEY JUDE
+//      O: THE BEATLES - YELLOW SUBMARINE
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, STOP]
+//   I: ADD A SONG
+//      ----- CASE 1 ------
+//      O: ASK ARTIST
+//      I: DUA LIPA
+//      O: NEW ARTIST, CAN YOU GIVE ME THE SONG NAME?
+//      I: ONE KISS
+//      O: I'VE ADDED DUA LIPA - ONE KISS
+//      O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//
+//      ----- CASE 2 ------
+//      O: ASK ARTIST
+//      I: THE BEATLES
+//      O: THE BEATLES IS IN LIST, DO YOU WANT TO TO ADD A NEW SONG?
+//         ----- SUBCASE 2.1
+//         I: Y
+//         O: CAN YOU GIVE ME THE SONG?
+//         I: HEY JUDE
+//         O: I'VE ADDED THE BEATLES - HEY JUDE
+//         O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, STOP]
+//         -----SUBCASE 2.2
+//         I: N
+//         O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, STOP]
+//   I: STOP
+//      O: GOODBYE
+//   I: GIVE ME A SONG
+//      O: ERROR, I DON'T RECOGNISE THE COMMANDO
+
+
+
+
+
+
+
+
+// SPOTIFY PLAY A SONG
+// FASE 4:
+// COMMANDS
+//   I: LIST
+//      O: DUA LIPA - ONE KISS
+//      O: THE BEATLES - HEY JUDE
+//      O: THE BEATLES - YELLOW SUBMARINE
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: LIST SONGS
+//      O: DUA LIPA - ONE KISS
+//      O: THE BEATLES - HEY JUDE
+//      O: THE BEATLES - YELLOW SUBMARINE
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: ADD A SONG
+//      ----- CASE 1 ------
+//      O: ASK ARTIST
+//      I: DUA LIPA
+//      O: NEW ARTIST, CAN YOU GIVE ME THE SONG NAME?
+//      I: ONE KISS
+//      O: I'VE ADDED DUA LIPA - ONE KISS
+//      O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//
+//      ----- CASE 2 ------
+//      O: ASK ARTIST
+//      I: THE BEATLES
+//      O: THE BEATLES IS IN LIST, DO YOU WANT TO TO ADD A NEW SONG?
+//         ----- SUBCASE 2.1
+//         I: Y
+//         O: CAN YOU GIVE ME THE SONG?
+//         I: HEY JUDE
+//         O: I'VE ADDED THE BEATLES - HEY JUDE
+//         O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//         -----SUBCASE 2.2
+//         I: N
+//         O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: STOP
+//      O: GOODBYE
+//   I: PLAY ME A SONG
+//      ----- CASE 1 ------
+//      O: WHAT SONG DO YOU WANT TO HEAR?
+//      I: DUA LIPA - ONE KISS
+//      O: PLAYING DUA LIPA
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//
+//      ----- CASE 2 ------
+//      O: WHAT SONG DO YOU WANT TO HEAR?
+//      I: PEARL JAM - ALIVE
+//      O: CAN NOT FIND THIS SONG
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: GIVE ME A SONG
+//      O: ERROR, I DON'T RECOGNISE THE COMMANDO
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+
+
+
+
+
+
+
+
+
+
+
+// SPOTIFY ARTIST PLAY A RANDOM SONG
+// FASE 5:
+// COMMANDS
+//   I: LIST
+//      O: DUA LIPA - ONE KISS
+//      O: THE BEATLES - HEY JUDE
+//      O: THE BEATLES - YELLOW SUBMARINE
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: LIST SONGS
+//      O: DUA LIPA - ONE KISS
+//      O: THE BEATLES - HEY JUDE
+//      O: THE BEATLES - YELLOW SUBMARINE
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: ADD A SONG
+//      ----- CASE 1 ------
+//      O: ASK ARTIST
+//      I: DUA LIPA
+//      O: NEW ARTIST, CAN YOU GIVE ME THE SONG NAME?
+//      I: ONE KISS
+//      O: I'VE ADDED DUA LIPA - ONE KISS
+//      O: GIVE NEW COMMANDO [LIST, ADD A SONG, STOP]
+//
+//      ----- CASE 2 ------
+//      O: ASK ARTIST
+//      I: THE BEATLES
+//      O: THE BEATLES IS IN LIST, DO YOU WANT TO TO ADD A NEW SONG?
+//         ----- SUBCASE 2.1
+//         I: Y
+//         O: CAN YOU GIVE ME THE SONG?
+//         I: HEY JUDE
+//         O: I'VE ADDED THE BEATLES - HEY JUDE
+//         O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//         -----SUBCASE 2.2
+//         I: N
+//         O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: STOP
+//      O: GOODBYE
+//   I: PLAY ME A SONG
+//      ----- CASE 1 ------
+//      O: WHAT SONG DO YOU WANT TO HEAR?
+//      I: DUA LIPA - ONE KISS
+//      O: PLAYING DUA LIPA
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//
+//      ----- CASE 2 ------
+//      O: WHAT SONG DO YOU WANT TO HEAR?
+//      I: PEARL JAM - ALIVE
+//      O: CAN NOT FIND THIS SONG
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: PLAY ME A RANDOM SONG
+//      O: PLAYING DUA LIPA - ONE KISS
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]
+//   I: GIVE ME A SONG
+//      O: ERROR, I DON'T RECOGNISE THE COMMANDO
+//      O: GIVE NEW COMMANDO [LIST, LIST SONGS, ADD A SONG, PLAY A SONG, STOP]

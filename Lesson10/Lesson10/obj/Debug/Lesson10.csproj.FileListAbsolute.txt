@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson10/Lesson10/bin/Debug/Lesson10.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson10/Lesson10/bin/Debug/Lesson10.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson10/Lesson10/obj/Debug/Lesson10.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson10/Lesson10/obj/Debug/Lesson10.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson10/Lesson10/obj/Debug/Lesson10.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/Lesson10/Lesson10/obj/Debug/Lesson10.pdb

@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/BankAccountOO/BankAccountOO/bin/Debug/BankAccountOO.exe
+/Users/collinvandervorst/Projects/BankAccountOO/BankAccountOO/bin/Debug/BankAccountOO.pdb
+/Users/collinvandervorst/Projects/BankAccountOO/BankAccountOO/obj/Debug/BankAccountOO.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/BankAccountOO/BankAccountOO/obj/Debug/BankAccountOO.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/BankAccountOO/BankAccountOO/obj/Debug/BankAccountOO.exe
+/Users/collinvandervorst/Projects/BankAccountOO/BankAccountOO/obj/Debug/BankAccountOO.pdb

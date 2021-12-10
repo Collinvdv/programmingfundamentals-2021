@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson10Area/Lesson10Area/bin/Debug/Lesson10Area.exe
+/Users/collinvandervorst/Projects/Lesson10Area/Lesson10Area/bin/Debug/Lesson10Area.pdb
+/Users/collinvandervorst/Projects/Lesson10Area/Lesson10Area/obj/Debug/Lesson10Area.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson10Area/Lesson10Area/obj/Debug/Lesson10Area.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson10Area/Lesson10Area/obj/Debug/Lesson10Area.exe
+/Users/collinvandervorst/Projects/Lesson10Area/Lesson10Area/obj/Debug/Lesson10Area.pdb

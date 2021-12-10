@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{235C5627-6AC0-40E9-8B43-FFE3EE14FE3B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson10Spotify FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson10Spotify/Program.cs">
+    <Files>
+      <File FileName="Lesson10Spotify/Program.cs" Line="266" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson10Spotify" expanded="True">
+            <Node name="Lesson10Spotify" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8ABADC9F-7A1D-4B8F-A6A8-4F953B01DF5C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson5/Program.cs">
+    <Files>
+      <File FileName="Lesson5/Program.cs" Line="229" Column="58" />
+      <File FileName="Lesson5/rapunzel.txt" Line="26" Column="1277" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson5" expanded="True">
+            <Node name="Lesson5" expanded="True">
+              <Node name="rapunzel.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lesson5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

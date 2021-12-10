@@ -1,0 +1,8 @@
+/Users/collinvandervorst/Projects/fileIn/fileIn/bin/Debug/fileIn.exe
+/Users/collinvandervorst/Projects/fileIn/fileIn/bin/Debug/fileIn.pdb
+/Users/collinvandervorst/Projects/fileIn/fileIn/obj/Debug/fileIn.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/fileIn/fileIn/obj/Debug/fileIn.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/fileIn/fileIn/obj/Debug/fileIn.exe
+/Users/collinvandervorst/Projects/fileIn/fileIn/obj/Debug/fileIn.pdb
+/Users/collinvandervorst/Projects/fileIn/fileIn/bin/Debug/students.txt
+/Users/collinvandervorst/Projects/fileIn/fileIn/bin/Debug/loremipsum.txt

@@ -1,0 +1,7 @@
+/Users/collinvandervorst/Projects/Lesson5Reading/Lesson5Reading/bin/Debug/Rapunzel.txt
+/Users/collinvandervorst/Projects/Lesson5Reading/Lesson5Reading/bin/Debug/Lesson5Reading.exe
+/Users/collinvandervorst/Projects/Lesson5Reading/Lesson5Reading/bin/Debug/Lesson5Reading.pdb
+/Users/collinvandervorst/Projects/Lesson5Reading/Lesson5Reading/obj/Debug/Lesson5Reading.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson5Reading/Lesson5Reading/obj/Debug/Lesson5Reading.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson5Reading/Lesson5Reading/obj/Debug/Lesson5Reading.exe
+/Users/collinvandervorst/Projects/Lesson5Reading/Lesson5Reading/obj/Debug/Lesson5Reading.pdb
