@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/School/School/bin/Debug/School.exe
+/Users/collinvandervorst/Projects/School/School/bin/Debug/School.pdb
+/Users/collinvandervorst/Projects/School/School/obj/Debug/School.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/School/School/obj/Debug/School.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/School/School/obj/Debug/School.exe
+/Users/collinvandervorst/Projects/School/School/obj/Debug/School.pdb

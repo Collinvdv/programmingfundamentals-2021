@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/OO_zoo/OO_zoo/bin/Debug/OO_zoo.exe
+/Users/collinvandervorst/Projects/OO_zoo/OO_zoo/bin/Debug/OO_zoo.pdb
+/Users/collinvandervorst/Projects/OO_zoo/OO_zoo/obj/Debug/OO_zoo.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/OO_zoo/OO_zoo/obj/Debug/OO_zoo.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/OO_zoo/OO_zoo/obj/Debug/OO_zoo.exe
+/Users/collinvandervorst/Projects/OO_zoo/OO_zoo/obj/Debug/OO_zoo.pdb

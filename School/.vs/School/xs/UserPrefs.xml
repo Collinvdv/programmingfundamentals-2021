@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F55070A7-48CA-4337-9160-FDCF99902F04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="School/Person.cs">
+    <Files>
+      <File FileName="School/Program.cs" Line="15" Column="20" />
+      <File FileName="School/Person.cs" Line="11" Column="1" />
+      <File FileName="School/Teacher.cs" Line="19" Column="9" />
+      <File FileName="School/Teacher (copy).cs" Line="12" Column="61" />
+      <File FileName="School/EnumGender.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="School" expanded="True">
+            <Node name="School" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.School PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

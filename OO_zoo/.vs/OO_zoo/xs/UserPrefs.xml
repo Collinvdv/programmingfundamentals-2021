@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{30FF991C-8387-48BF-9B90-5488E7B1F696}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OO_zoo/Fish.cs">
+    <Files>
+      <File FileName="OO_zoo/Program.cs" Line="42" Column="14" />
+      <File FileName="OO_zoo/Animal.cs" Line="12" Column="54" />
+      <File FileName="OO_zoo/Fish.cs" Line="6" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OO_zoo" expanded="True">
+            <Node name="OO_zoo" expanded="True">
+              <Node name="Fish.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.OO__zoo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
