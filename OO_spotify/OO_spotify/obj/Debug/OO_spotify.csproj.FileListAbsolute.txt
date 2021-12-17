@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/OO_spotify/OO_spotify/bin/Debug/OO_spotify.exe
+/Users/collinvandervorst/Projects/OO_spotify/OO_spotify/bin/Debug/OO_spotify.pdb
+/Users/collinvandervorst/Projects/OO_spotify/OO_spotify/obj/Debug/OO_spotify.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/OO_spotify/OO_spotify/obj/Debug/OO_spotify.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/OO_spotify/OO_spotify/obj/Debug/OO_spotify.exe
+/Users/collinvandervorst/Projects/OO_spotify/OO_spotify/obj/Debug/OO_spotify.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C60DCFE3-E631-45AA-B289-1F439837D2B6}|Default">
+  <MonoDevelop.Ide.ItemProperties.OO__spotify PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OO_spotify/Song.cs">
+    <Files>
+      <File FileName="OO_spotify/Program.cs" Line="26" Column="1" />
+      <File FileName="OO_spotify/Artist.cs" />
+      <File FileName="OO_spotify/Song.cs" Line="15" Column="10" />
+      <File FileName="OO_spotify/Spotify.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OO_spotify" expanded="True">
+            <Node name="OO_spotify" expanded="True">
+              <Node name="Song.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
