@@ -1,0 +1,7 @@
+/Users/collinvandervorst/Projects/testExamen/testExamen/bin/Debug/testExamen.exe
+/Users/collinvandervorst/Projects/testExamen/testExamen/bin/Debug/testExamen.pdb
+/Users/collinvandervorst/Projects/testExamen/testExamen/obj/Debug/testExamen.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/testExamen/testExamen/obj/Debug/testExamen.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/testExamen/testExamen/obj/Debug/testExamen.exe
+/Users/collinvandervorst/Projects/testExamen/testExamen/obj/Debug/testExamen.pdb
+/Users/collinvandervorst/Projects/testExamen/testExamen/bin/Debug/Names.txt

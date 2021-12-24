@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/rps/rps/bin/Debug/rps.exe
+/Users/collinvandervorst/Projects/rps/rps/bin/Debug/rps.pdb
+/Users/collinvandervorst/Projects/rps/rps/obj/Debug/rps.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/rps/rps/obj/Debug/rps.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/rps/rps/obj/Debug/rps.exe
+/Users/collinvandervorst/Projects/rps/rps/obj/Debug/rps.pdb
