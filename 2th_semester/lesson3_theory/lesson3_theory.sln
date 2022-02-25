@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson2_practica", "lesson2_practica\lesson2_practica.csproj", "{B614DA1B-0690-466D-9027-0A0E5999C99F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson3_theory", "lesson3_theory\lesson3_theory.csproj", "{6E54A72E-37B5-46E6-BE43-2FF789545B79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B614DA1B-0690-466D-9027-0A0E5999C99F}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{B614DA1B-0690-466D-9027-0A0E5999C99F}.Debug|anycpu.Build.0 = Debug|anycpu
-		{B614DA1B-0690-466D-9027-0A0E5999C99F}.Release|anycpu.ActiveCfg = Release|anycpu
-		{B614DA1B-0690-466D-9027-0A0E5999C99F}.Release|anycpu.Build.0 = Release|anycpu
+		{6E54A72E-37B5-46E6-BE43-2FF789545B79}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6E54A72E-37B5-46E6-BE43-2FF789545B79}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6E54A72E-37B5-46E6-BE43-2FF789545B79}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6E54A72E-37B5-46E6-BE43-2FF789545B79}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {46EC0A7D-78A4-42FB-A058-B047B85A1169}
+		SolutionGuid = {AFE73A85-BC43-437F-AB27-9ED4600ABD2A}
 	EndGlobalSection
 EndGlobal

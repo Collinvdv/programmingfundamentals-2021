@@ -1,6 +1,0 @@
-/Users/collinvandervorst/Projects/lesson2_practica/lesson2_practica/bin/Debug/lesson2_practica.exe
-/Users/collinvandervorst/Projects/lesson2_practica/lesson2_practica/bin/Debug/lesson2_practica.pdb
-/Users/collinvandervorst/Projects/lesson2_practica/lesson2_practica/obj/Debug/lesson2_practica.csproj.AssemblyReference.cache
-/Users/collinvandervorst/Projects/lesson2_practica/lesson2_practica/obj/Debug/lesson2_practica.csproj.CoreCompileInputs.cache
-/Users/collinvandervorst/Projects/lesson2_practica/lesson2_practica/obj/Debug/lesson2_practica.exe
-/Users/collinvandervorst/Projects/lesson2_practica/lesson2_practica/obj/Debug/lesson2_practica.pdb
