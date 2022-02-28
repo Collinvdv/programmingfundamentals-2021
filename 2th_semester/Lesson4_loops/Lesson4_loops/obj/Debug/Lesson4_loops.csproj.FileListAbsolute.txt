@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson4_loops/Lesson4_loops/bin/Debug/Lesson4_loops.exe
+/Users/collinvandervorst/Projects/Lesson4_loops/Lesson4_loops/bin/Debug/Lesson4_loops.pdb
+/Users/collinvandervorst/Projects/Lesson4_loops/Lesson4_loops/obj/Debug/Lesson4_loops.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson4_loops/Lesson4_loops/obj/Debug/Lesson4_loops.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson4_loops/Lesson4_loops/obj/Debug/Lesson4_loops.exe
+/Users/collinvandervorst/Projects/Lesson4_loops/Lesson4_loops/obj/Debug/Lesson4_loops.pdb
