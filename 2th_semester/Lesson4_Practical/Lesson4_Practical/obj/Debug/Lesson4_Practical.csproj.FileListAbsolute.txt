@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson4_Practical/Lesson4_Practical/bin/Debug/Lesson4_Practical.exe
+/Users/collinvandervorst/Projects/Lesson4_Practical/Lesson4_Practical/bin/Debug/Lesson4_Practical.pdb
+/Users/collinvandervorst/Projects/Lesson4_Practical/Lesson4_Practical/obj/Debug/Lesson4_Practical.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson4_Practical/Lesson4_Practical/obj/Debug/Lesson4_Practical.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson4_Practical/Lesson4_Practical/obj/Debug/Lesson4_Practical.exe
+/Users/collinvandervorst/Projects/Lesson4_Practical/Lesson4_Practical/obj/Debug/Lesson4_Practical.pdb
