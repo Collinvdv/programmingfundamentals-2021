@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{7C49A939-E936-4CBD-8D65-DFE0A9B10E8A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson4_Practical/Program.cs">
+﻿<Properties StartupConfiguration="{E8801DF3-5CAA-4EFB-9EA2-5A55770B595F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson5Files/Program.cs">
     <Files>
-      <File FileName="Lesson4_Practical/Program.cs" Line="112" Column="1" />
+      <File FileName="Lesson5Files/Program.cs" Line="21" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lesson4_Practical" expanded="True">
-            <Node name="Lesson4_Practical" expanded="True">
+          <Node name="Lesson5Files" expanded="True">
+            <Node name="Lesson5Files" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Lesson4__Practical FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lesson5Files PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

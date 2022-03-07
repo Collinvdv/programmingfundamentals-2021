@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E3C1D6B6-2A32-44D1-A1E2-59768C8C5EFD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson5__Files PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson5_Files/Program.cs">
+    <Files>
+      <File FileName="Lesson5_Files/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson5_Files" expanded="True">
+            <Node name="Lesson5_Files" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

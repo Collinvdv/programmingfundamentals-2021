@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8D63E5FB-83C3-4B66-B9C6-7F41B371A7C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson5FilesInput/guestbook.txt">
+    <Files>
+      <File FileName="Lesson5FilesInput/Program.cs" Line="4" Column="28" />
+      <File FileName="Lesson5FilesInput/guestbook.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson5FilesInput" expanded="True">
+            <Node name="Lesson5FilesInput" expanded="True">
+              <Node name="guestbook.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lesson5FilesInput FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

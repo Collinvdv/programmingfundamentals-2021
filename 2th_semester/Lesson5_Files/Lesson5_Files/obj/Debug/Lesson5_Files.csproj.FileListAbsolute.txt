@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_Files/Lesson5_Files/bin/Debug/Lesson5_Files.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_Files/Lesson5_Files/bin/Debug/Lesson5_Files.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_Files/Lesson5_Files/obj/Debug/Lesson5_Files.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_Files/Lesson5_Files/obj/Debug/Lesson5_Files.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_Files/Lesson5_Files/obj/Debug/Lesson5_Files.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_Files/Lesson5_Files/obj/Debug/Lesson5_Files.pdb

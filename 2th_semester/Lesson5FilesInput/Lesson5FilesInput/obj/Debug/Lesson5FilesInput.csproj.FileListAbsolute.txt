@@ -1,0 +1,7 @@
+/Users/collinvandervorst/Projects/Lesson5FilesInput/Lesson5FilesInput/bin/Debug/Lesson5FilesInput.exe
+/Users/collinvandervorst/Projects/Lesson5FilesInput/Lesson5FilesInput/bin/Debug/Lesson5FilesInput.pdb
+/Users/collinvandervorst/Projects/Lesson5FilesInput/Lesson5FilesInput/obj/Debug/Lesson5FilesInput.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson5FilesInput/Lesson5FilesInput/obj/Debug/Lesson5FilesInput.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson5FilesInput/Lesson5FilesInput/obj/Debug/Lesson5FilesInput.exe
+/Users/collinvandervorst/Projects/Lesson5FilesInput/Lesson5FilesInput/obj/Debug/Lesson5FilesInput.pdb
+/Users/collinvandervorst/Projects/Lesson5FilesInput/Lesson5FilesInput/bin/Debug/guestbook.txt
