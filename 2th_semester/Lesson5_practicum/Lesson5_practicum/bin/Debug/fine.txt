@@ -1,0 +1,3 @@
+50km in zone1 = 50euro
+200km in zone2 = 75euro
+200km in zone2 = 75euro
