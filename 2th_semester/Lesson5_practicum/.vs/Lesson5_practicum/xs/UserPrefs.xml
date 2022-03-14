@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{E7A2DEC9-975A-4565-A96C-533A79E1470B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Lesson5_practicum/Program.cs">
     <Files>
-      <File FileName="Lesson5_practicum/Program.cs" Line="78" Column="13" />
-      <File FileName="Lesson5_practicum/spotify.txt" Line="1" Column="1" />
+      <File FileName="Lesson5_practicum/Program.cs" Line="174" Column="1" />
+      <File FileName="Lesson5_practicum/spotify.txt" Line="1" Column="10" />
+      <File FileName="Lesson5_practicum/spotify_2.txt" Line="2" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

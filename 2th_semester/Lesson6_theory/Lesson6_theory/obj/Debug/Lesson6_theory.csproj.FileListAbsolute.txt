@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson6_theory/Lesson6_theory/bin/Debug/Lesson6_theory.exe
+/Users/collinvandervorst/Projects/Lesson6_theory/Lesson6_theory/bin/Debug/Lesson6_theory.pdb
+/Users/collinvandervorst/Projects/Lesson6_theory/Lesson6_theory/obj/Debug/Lesson6_theory.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson6_theory/Lesson6_theory/obj/Debug/Lesson6_theory.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson6_theory/Lesson6_theory/obj/Debug/Lesson6_theory.exe
+/Users/collinvandervorst/Projects/Lesson6_theory/Lesson6_theory/obj/Debug/Lesson6_theory.pdb

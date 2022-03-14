@@ -5,3 +5,10 @@
 /Users/collinvandervorst/Projects/Lesson5_practicum/Lesson5_practicum/obj/Debug/Lesson5_practicum.csproj.CoreCompileInputs.cache
 /Users/collinvandervorst/Projects/Lesson5_practicum/Lesson5_practicum/obj/Debug/Lesson5_practicum.exe
 /Users/collinvandervorst/Projects/Lesson5_practicum/Lesson5_practicum/obj/Debug/Lesson5_practicum.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_practicum/Lesson5_practicum/bin/Debug/spotify.txt
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_practicum/Lesson5_practicum/bin/Debug/Lesson5_practicum.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_practicum/Lesson5_practicum/bin/Debug/Lesson5_practicum.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_practicum/Lesson5_practicum/obj/Debug/Lesson5_practicum.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_practicum/Lesson5_practicum/obj/Debug/Lesson5_practicum.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_practicum/Lesson5_practicum/obj/Debug/Lesson5_practicum.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson5_practicum/Lesson5_practicum/obj/Debug/Lesson5_practicum.pdb
