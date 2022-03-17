@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{71280011-3538-47D6-AA5B-7FB2AA48E976}|Default">
   <MonoDevelop.Ide.ItemProperties.Lesson6__practicum PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson6_practicum/2022.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson6_practicum/2020.txt">
     <Files>
-      <File FileName="Lesson6_practicum/Program.cs" Line="196" Column="37" />
-      <File FileName="Lesson6_practicum/EmptyTextFile.txt" Line="3" Column="1" />
-      <File FileName="Lesson6_practicum/2021 (copy).txt" Line="3" Column="6" />
+      <File FileName="Lesson6_practicum/Program.cs" Line="213" Column="18" />
+      <File FileName="Lesson6_practicum/2022.txt" Line="1" Column="1" />
+      <File FileName="Lesson6_practicum/2021.txt" Line="1" Column="1" />
+      <File FileName="Lesson6_practicum/2020.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lesson6_practicum" expanded="True">
             <Node name="Lesson6_practicum" expanded="True">
-              <Node name="2022.txt" selected="True" />
+              <Node name="2020.txt" selected="True" />
             </Node>
           </Node>
         </State>

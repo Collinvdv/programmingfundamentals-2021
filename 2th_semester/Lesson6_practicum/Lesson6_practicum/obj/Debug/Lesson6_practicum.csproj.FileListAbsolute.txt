@@ -4,3 +4,12 @@
 /Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.csproj.CoreCompileInputs.cache
 /Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.exe
 /Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/bin/Debug/Lesson6_practicum.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/bin/Debug/Lesson6_practicum.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/bin/Debug/2022.txt
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/bin/Debug/2021.txt
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson6_practicum/Lesson6_practicum/bin/Debug/2020.txt
