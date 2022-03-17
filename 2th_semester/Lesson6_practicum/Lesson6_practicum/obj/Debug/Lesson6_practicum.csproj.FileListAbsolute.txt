@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/bin/Debug/Lesson6_practicum.exe
+/Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/bin/Debug/Lesson6_practicum.pdb
+/Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.exe
+/Users/collinvandervorst/Projects/Lesson6_practicum/Lesson6_practicum/obj/Debug/Lesson6_practicum.pdb
