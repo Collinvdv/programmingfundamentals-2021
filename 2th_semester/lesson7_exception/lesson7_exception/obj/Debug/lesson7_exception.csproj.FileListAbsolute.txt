@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/lesson7_exception/lesson7_exception/bin/Debug/lesson7_exception.exe
+/Users/collinvandervorst/Projects/lesson7_exception/lesson7_exception/bin/Debug/lesson7_exception.pdb
+/Users/collinvandervorst/Projects/lesson7_exception/lesson7_exception/obj/Debug/lesson7_exception.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/lesson7_exception/lesson7_exception/obj/Debug/lesson7_exception.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/lesson7_exception/lesson7_exception/obj/Debug/lesson7_exception.exe
+/Users/collinvandervorst/Projects/lesson7_exception/lesson7_exception/obj/Debug/lesson7_exception.pdb
