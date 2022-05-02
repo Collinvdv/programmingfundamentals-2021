@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CE88DE3A-3D6B-4B60-AB06-3B38BF5B71CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson11_OO/ClassRoom.cs">
+    <Files>
+      <File FileName="Lesson11_OO/Program.cs" Line="30" Column="38" />
+      <File FileName="Lesson11_OO/Person.cs" Line="71" Column="1" />
+      <File FileName="Lesson11_OO/ClassRoom.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson11_OO" expanded="True">
+            <Node name="Lesson11_OO" expanded="True">
+              <Node name="ClassRoom.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lesson11__OO PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson10_band_generator", "lesson10_band_generator\lesson10_band_generator.csproj", "{4F6D692F-6B02-4020-BE12-6F28683A3C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6D692F-6B02-4020-BE12-6F28683A3C8A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4F6D692F-6B02-4020-BE12-6F28683A3C8A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4F6D692F-6B02-4020-BE12-6F28683A3C8A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4F6D692F-6B02-4020-BE12-6F28683A3C8A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A805B76F-7140-4575-B39D-D8177431F025}
+	EndGlobalSection
+EndGlobal

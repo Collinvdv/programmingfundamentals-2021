@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/Lesson11_OO/Lesson11_OO/bin/Debug/Lesson11_OO.exe
+/Users/collinvandervorst/Projects/Lesson11_OO/Lesson11_OO/bin/Debug/Lesson11_OO.pdb
+/Users/collinvandervorst/Projects/Lesson11_OO/Lesson11_OO/obj/Debug/Lesson11_OO.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/Lesson11_OO/Lesson11_OO/obj/Debug/Lesson11_OO.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/Lesson11_OO/Lesson11_OO/obj/Debug/Lesson11_OO.exe
+/Users/collinvandervorst/Projects/Lesson11_OO/Lesson11_OO/obj/Debug/Lesson11_OO.pdb

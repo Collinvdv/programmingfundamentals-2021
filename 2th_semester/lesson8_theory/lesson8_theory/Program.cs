@@ -276,13 +276,12 @@ namespace lesson8_theory
 
 //
 // Spotify
-// 1 RESTRICTION
 // COMMANDS
 //     ADD A SONG
 //     LIST ALL ARTISTS
 //     LIST ALL SONGS OF ARTIST
 //     STOP
-//
+
 // I: ADD A SONG
 // O: Name of artist:
 // I: Justin Bwieber
@@ -307,6 +306,21 @@ namespace lesson8_theory
 //
 // I: STOP
 // O: ThxBye
+//
+//
+// I: ADD A SONG
+// O: Name of artist:
+// I: Justin Bwieber
+// O: Name of song:
+// I: Adult
+// O: Song adult for Justin Bwieber is already added!
+//
+
+
+
+
+
+
 
 
 //

@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{898D68DA-C1F3-4519-AFDE-3AC80D4B6462}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="lesson8_theory/Program.cs">
+﻿<Properties StartupConfiguration="{CC9AE2C1-0F8B-47DD-9BF2-9BB23F1D9D87}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson9/Program.cs">
     <Files>
-      <File FileName="lesson8_theory/Program.cs" Line="293" Column="22" />
+      <File FileName="Lesson9/Program.cs" Line="348" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="lesson8_theory" expanded="True">
-            <Node name="lesson8_theory" expanded="True">
+          <Node name="Lesson9" expanded="True">
+            <Node name="Lesson9" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.lesson8__theory PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

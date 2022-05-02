@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10/Lesson10_theory/Lesson10_theory/bin/Debug/Lesson10_theory.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10/Lesson10_theory/Lesson10_theory/bin/Debug/Lesson10_theory.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10/Lesson10_theory/Lesson10_theory/obj/Debug/Lesson10_theory.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10/Lesson10_theory/Lesson10_theory/obj/Debug/Lesson10_theory.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10/Lesson10_theory/Lesson10_theory/obj/Debug/Lesson10_theory.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10/Lesson10_theory/Lesson10_theory/obj/Debug/Lesson10_theory.pdb

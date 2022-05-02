@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{898D68DA-C1F3-4519-AFDE-3AC80D4B6462}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="lesson8_theory/Program.cs">
+﻿<Properties StartupConfiguration="{E9E37E36-B274-488B-A4D5-93CFC974295E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson10__practicum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson10_practicum/Program.cs">
     <Files>
-      <File FileName="lesson8_theory/Program.cs" Line="293" Column="22" />
+      <File FileName="Lesson10_practicum/Program.cs" Line="384" Column="79" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="lesson8_theory" expanded="True">
-            <Node name="lesson8_theory" expanded="True">
+          <Node name="Lesson10_practicum" expanded="True">
+            <Node name="Lesson10_practicum" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +22,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.lesson8__theory PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

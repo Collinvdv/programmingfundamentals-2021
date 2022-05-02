@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/lesson10_band_generator/lesson10_band_generator/bin/Debug/lesson10_band_generator.exe
+/Users/collinvandervorst/Projects/lesson10_band_generator/lesson10_band_generator/bin/Debug/lesson10_band_generator.pdb
+/Users/collinvandervorst/Projects/lesson10_band_generator/lesson10_band_generator/obj/Debug/lesson10_band_generator.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/lesson10_band_generator/lesson10_band_generator/obj/Debug/lesson10_band_generator.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/lesson10_band_generator/lesson10_band_generator/obj/Debug/lesson10_band_generator.exe
+/Users/collinvandervorst/Projects/lesson10_band_generator/lesson10_band_generator/obj/Debug/lesson10_band_generator.pdb

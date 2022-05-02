@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10_practicum/Lesson10_practicum/bin/Debug/Lesson10_practicum.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10_practicum/Lesson10_practicum/bin/Debug/Lesson10_practicum.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10_practicum/Lesson10_practicum/obj/Debug/Lesson10_practicum.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10_practicum/Lesson10_practicum/obj/Debug/Lesson10_practicum.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10_practicum/Lesson10_practicum/obj/Debug/Lesson10_practicum.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson10_practicum/Lesson10_practicum/obj/Debug/Lesson10_practicum.pdb

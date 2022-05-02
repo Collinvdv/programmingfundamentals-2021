@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson9/Lesson9/bin/Debug/Lesson9.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson9/Lesson9/bin/Debug/Lesson9.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson9/Lesson9/obj/Debug/Lesson9.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson9/Lesson9/obj/Debug/Lesson9.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson9/Lesson9/obj/Debug/Lesson9.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson9/Lesson9/obj/Debug/Lesson9.pdb
