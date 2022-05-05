@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson11_animals/Lesson11_animals/obj/Debug/Lesson11_animals.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson11_animals/Lesson11_animals/obj/Debug/Lesson11_animals.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson11_animals/Lesson11_animals/bin/Debug/Lesson11_animals.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson11_animals/Lesson11_animals/bin/Debug/Lesson11_animals.pdb
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson11_animals/Lesson11_animals/obj/Debug/Lesson11_animals.exe
+/Users/collinvandervorst/Projects/programing-fundamentals/2th_semester/Lesson11_animals/Lesson11_animals/obj/Debug/Lesson11_animals.pdb
